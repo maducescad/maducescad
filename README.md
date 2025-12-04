@@ -14,8 +14,6 @@
 
 ***
 
-[![veli](https://github-profile-trophy.vercel.app/?username=velijv&rank=S,SECRET,A&column=-1&theme=darkhub&no-bg=true&no-frame=true&margin-w=40)](#)
-
 [![Apple](https://img.shields.io/badge/iPad-Pro-000?logo=apple&logoColor=888&labelColor=1d1d1f&style=flat&color=rgba(0,0,0,0.3))](#)
 [![iPadOS](https://img.shields.io/badge/iPadOS-26-000?logo=iOS&logoColor=888&labelColor=1d1d1f&style=flat&color=rgba(0,0,0,0.3))](#)
 [![macbook](https://img.shields.io/badge/MacBook-Air%20M1-000?logo=apple&logoColor=888&labelColor=1d1d1f&style=flat&color=rgba(0,0,0,0.3))](#)
